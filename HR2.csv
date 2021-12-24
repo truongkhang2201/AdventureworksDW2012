@@ -1,0 +1,297 @@
+EmployeeKey,ParentEmployeeKey,EmployeeNationalIDAlternateKey,FirstName,LastName,Title,HireDate,BirthDate,LoginID,EmailAddress,Phone,MaritalStatus,Gender,PayFrequency,BaseRate,VacationHours,SickLeaveHours,CurrentFlag,DepartmentName,StartDate,EndDate,Status
+1,18,14417807,Guy,Gilbert,Production Technician - WC60,2006-01-28,1981-11-12,adventure-works\guy1,guy1@adventure-works.com,320-555-0195,M,M,1,12.45,21,30,1,Production,2006-01-28,NULL,Current
+2,7,253022876,Kevin,Brown,Marketing Assistant,2006-08-26,1986-12-01,adventure-works\kevin0,kevin0@adventure-works.com,150-555-0189,S,M,2,134.615,42,41,1,Marketing,2006-08-26,NULL,Current
+3,14,509647174,Roberto,Tamburello,Engineering Manager,2007-06-11,1974-06-12,adventure-works\roberto0,roberto0@adventure-works.com,212-555-0187,M,M,2,432.692,2,21,1,Engineering,2007-06-11,NULL,Current
+4,3,112457891,Rob,Walters,Senior Tool Designer,2007-07-05,1974-07-23,adventure-works\rob0,rob0@adventure-works.com,612-555-0100,S,M,2,298.462,48,80,1,Tool Design,2007-07-05,2009-12-28,NULL
+5,3,112457891,Rob,Walters,Senior Tool Designer,2007-07-05,1974-07-23,adventure-works\rob0,rob0@adventure-works.com,612-555-0100,S,M,2,298.462,48,80,1,Tool Design,2009-12-28,NULL,Current
+6,267,480168528,Thierry,D'Hers,Tool Designer,2007-07-11,1959-02-26,adventure-works\thierry0,thierry0@adventure-works.com,168-555-0183,M,M,2,25.00,9,24,1,Tool Design,2007-07-11,NULL,Current
+7,112,24756624,David,Bradley,Marketing Manager,2007-07-20,1974-10-17,adventure-works\david0,david0@adventure-works.com,913-555-0172,S,M,2,37.50,40,40,1,Marketing,2007-07-20,2009-02-11,NULL
+8,112,24756624,David,Bradley,Marketing Manager,2007-07-20,1974-10-17,adventure-works\david0,david0@adventure-works.com,913-555-0172,S,M,2,37.50,40,40,1,Marketing,2009-02-12,NULL,Current
+9,23,309738752,JoLynn,Dobney,Production Supervisor - WC60,2007-07-26,1955-08-16,adventure-works\jolynn0,jolynn0@adventure-works.com,903-555-0145,S,F,2,25.00,82,61,1,Production,2007-07-26,NULL,Current
+10,189,690627818,Ruth,Ellerbrock,Production Technician - WC10,2007-08-06,1956-01-03,adventure-works\ruth0,ruth0@adventure-works.com,145-555-0130,M,F,1,13.45,83,61,1,Production,2007-08-06,NULL,Current
+11,3,695256908,Gail,Erickson,Design Engineer,2007-08-06,1952-04-27,adventure-works\gail0,gail0@adventure-works.com,849-555-0139,M,F,2,326.923,5,22,1,Engineering,2007-08-06,NULL,Current
+12,189,912265825,Barry,Johnson,Production Technician - WC10,2007-08-07,1955-10-25,adventure-works\barry0,barry0@adventure-works.com,206-555-0180,S,M,1,13.45,88,64,1,Production,2007-08-07,NULL,Current
+13,3,998320692,Jossef,Goldberg,Design Engineer,2007-08-24,1958-10-09,adventure-works\jossef0,jossef0@adventure-works.com,122-555-0189,M,M,2,326.923,6,23,1,Engineering,2007-08-24,NULL,Current
+14,112,245797967,Terri,Duffy,Vice President of Engineering,2007-08-31,1971-03-01,adventure-works\terri0,terri0@adventure-works.com,819-555-0175,S,F,2,634.615,1,20,1,Engineering,2007-08-31,NULL,Current
+15,189,844973625,Sidney,Higa,Production Technician - WC10,2007-09-02,1956-03-30,adventure-works\sidney0,sidney0@adventure-works.com,424-555-0189,M,M,1,13.45,84,62,1,Production,2007-09-02,NULL,Current
+16,23,233069302,Taylor,Maxwell,Production Supervisor - WC50,2007-09-08,1955-10-31,adventure-works\taylor0,taylor0@adventure-works.com,508-555-0165,M,M,2,25.00,79,59,1,Production,2007-09-08,NULL,Current
+17,189,132674823,Jeffrey,Ford,Production Technician - WC10,2007-09-20,1956-02-09,adventure-works\jeffrey0,jeffrey0@adventure-works.com,984-555-0185,S,M,1,13.45,85,62,1,Production,2007-09-20,NULL,Current
+18,23,446466105,Jo,Brown,Production Supervisor - WC60,2007-09-27,1956-05-08,adventure-works\jo0,jo0@adventure-works.com,632-555-0129,S,F,2,25.00,80,60,1,Production,2007-09-27,NULL,Current
+19,189,565090917,Doris,Hartwig,Production Technician - WC10,2007-10-09,1955-11-03,adventure-works\doris0,doris0@adventure-works.com,328-555-0150,M,F,1,13.45,86,63,1,Production,2007-10-09,NULL,Current
+20,23,494170342,John,Campbell,Production Supervisor - WC60,2007-10-16,1956-03-07,adventure-works\john0,john0@adventure-works.com,435-555-0113,M,M,2,25.00,81,60,1,Production,2007-10-16,NULL,Current
+21,189,9659517,Diane,Glimp,Production Technician - WC10,2007-10-27,1955-10-28,adventure-works\diane0,diane0@adventure-works.com,202-555-0151,M,F,1,13.45,87,63,1,Production,2007-10-27,NULL,Current
+22,177,443968955,Steven,Selikoff,Production Technician - WC30,2008-07-01,1976-12-12,adventure-works\steven0,steven0@adventure-works.com,925-555-0114,M,M,1,9.50,41,40,1,Production,2008-07-01,NULL,Current
+23,112,277173473,Peter,Krebs,Production Control Manager,2008-07-01,1982-06-03,adventure-works\peter0,peter0@adventure-works.com,913-555-0196,M,M,2,245.192,43,41,1,Production Control,2008-07-01,NULL,Current
+24,201,835460180,Stuart,Munson,Production Technician - WC45,2008-07-02,1962-04-13,adventure-works\stuart0,stuart0@adventure-works.com,413-555-0136,S,M,1,10.00,84,62,1,Production,2008-07-02,NULL,Current
+25,201,687685941,Greg,Alderson,Production Technician - WC45,2008-07-02,1975-11-15,adventure-works\greg0,greg0@adventure-works.com,332-555-0150,S,M,1,10.00,85,62,1,Production,2008-07-02,NULL,Current
+26,188,498138869,David,Johnson,Production Technician - WC30,2008-07-02,1979-06-02,adventure-works\david1,david1@adventure-works.com,166-555-0162,S,M,1,9.50,25,32,1,Production,2008-07-02,NULL,Current
+27,23,360868122,Zheng,Mu,Production Supervisor - WC10,2008-07-03,1983-05-26,adventure-works\zheng0,zheng0@adventure-works.com,113-555-0173,S,M,2,25.00,66,53,1,Production,2008-07-03,NULL,Current
+28,111,964089218,Ivo,Salmre,Production Technician - WC20,2008-07-04,1981-08-03,adventure-works\ivo0,ivo0@adventure-works.com,115-555-0179,M,M,1,14.00,9,24,1,Production,2008-07-04,NULL,Current
+29,89,384162788,Paul,Komosinski,Production Technician - WC40,2008-07-04,1980-06-13,adventure-works\paul0,paul0@adventure-works.com,147-555-0160,S,M,1,15.00,68,54,1,Production,2008-07-04,NULL,Current
+30,154,749389530,Ashvini,Sharma,Network Administrator,2008-07-04,1976-10-25,adventure-works\ashvini0,ashvini0@adventure-works.com,656-555-0119,S,M,2,324.519,70,55,1,Information Services,2008-07-04,NULL,Current
+31,16,571658797,Kendall,Keil,Production Technician - WC50,2008-07-05,1985-12-28,adventure-works\kendall0,kendall0@adventure-works.com,138-555-0128,M,M,1,11.00,11,25,1,Production,2008-07-05,NULL,Current
+32,143,535145551,Paula,Barreto de Mattos,Human Resources Manager,2008-07-06,1975-09-11,adventure-works\paula0,paula0@adventure-works.com,523-555-0175,M,F,2,271.394,54,47,1,Human Resources,2008-07-06,NULL,Current
+33,214,761597760,Alejandro,McGuel,Production Technician - WC40,2008-07-06,1988-07-05,adventure-works\alejandro0,alejandro0@adventure-works.com,668-555-0130,S,M,1,15.00,52,46,1,Production,2008-07-06,NULL,Current
+34,188,271438431,Garrett,Young,Production Technician - WC30,2008-07-07,1984-03-25,adventure-works\garrett0,garrett0@adventure-works.com,609-555-0179,S,M,1,9.50,34,37,1,Production,2008-07-07,NULL,Current
+35,138,160739235,Jian Shuo,Wang,Production Technician - WC30,2008-07-07,1983-02-24,adventure-works\jianshuo0,jianshuo0@adventure-works.com,952-555-0178,S,M,1,9.50,36,38,1,Production,2008-07-07,NULL,Current
+36,87,586486572,Susan,Eaton,Stocker,2008-07-07,1977-09-17,adventure-works\susan0,susan0@adventure-works.com,943-555-0196,S,F,1,9.00,97,68,1,Shipping and Receiving,2008-07-07,NULL,Current
+37,87,337752649,Vamsi,Kuppa,Shipping and Receiving Clerk,2008-07-07,1976-10-16,adventure-works\vamsi0,vamsi0@adventure-works.com,937-555-0137,M,M,2,9.50,95,67,1,Shipping and Receiving,2008-07-07,NULL,Current
+38,40,113695504,Alice,Ciccu,Production Technician - WC50,2008-07-07,1977-08-26,adventure-works\alice0,alice0@adventure-works.com,333-555-0173,M,F,1,11.00,95,67,1,Production,2008-07-07,NULL,Current
+39,9,276751903,Simon,Rapier,Production Technician - WC60,2008-07-08,1989-12-15,adventure-works\simon0,simon0@adventure-works.com,963-555-0134,S,M,1,12.45,38,39,1,Production,2008-07-08,NULL,Current
+40,23,630184120,Jinghao,Liu,Production Supervisor - WC50,2008-07-08,1988-09-05,adventure-works\jinghao0,jinghao0@adventure-works.com,794-555-0159,S,M,2,25.00,77,58,1,Production,2008-07-08,NULL,Current
+41,186,545337468,Michael,Hines,Production Technician - WC20,2008-07-09,1989-12-15,adventure-works\michael0,michael0@adventure-works.com,218-555-0126,S,M,1,14.00,20,30,1,Production,2008-07-09,NULL,Current
+42,163,713403643,Yvonne,McKay,Production Technician - WC45,2008-07-09,1988-11-13,adventure-works\yvonne0,yvonne0@adventure-works.com,286-555-0189,M,F,1,10.00,79,59,1,Production,2008-07-09,NULL,Current
+43,204,885055826,Peng,Wu,Quality Assurance Supervisor,2008-07-09,1975-10-17,adventure-works\peng0,peng0@adventure-works.com,164-555-0164,M,M,2,216.346,81,60,1,Quality Assurance,2008-07-09,NULL,Current
+44,112,441044382,Jean,Trenary,Information Services Manager,2008-07-11,1975-07-13,adventure-works\jean0,jean0@adventure-works.com,685-555-0120,S,F,2,504.808,65,52,1,Information Services,2008-07-11,NULL,Current
+45,76,718299860,Russell,Hunter,Production Technician - WC50,2008-07-12,1972-06-25,adventure-works\russell0,russell0@adventure-works.com,786-555-0144,M,M,1,11.00,6,23,1,Production,2008-07-12,NULL,Current
+46,23,685233686,A. Scott,Wright,Master Scheduler,2008-07-12,1968-04-17,adventure-works\ascott0,ascott0@adventure-works.com,992-555-0194,S,M,2,235.577,44,42,1,Production Control,2008-07-12,NULL,Current
+47,214,295971920,Fred,Northup,Production Technician - WC40,2008-07-12,1989-01-23,adventure-works\fred0,fred0@adventure-works.com,818-555-0192,S,M,1,15.00,47,43,1,Production,2008-07-12,NULL,Current
+48,7,95958330,Sariya,Harnpadoungsataya,Marketing Specialist,2008-07-12,1986-12-19,adventure-works\sariya0,sariya0@adventure-works.com,399-555-0176,S,M,2,144.231,45,42,1,Marketing,2008-07-12,NULL,Current
+49,32,332040978,Willis,Johnson,Recruiter,2008-07-13,1978-02-15,adventure-works\willis0,willis0@adventure-works.com,778-555-0141,S,M,2,182.692,49,44,1,Human Resources,2008-07-13,NULL,Current
+50,40,857651804,Jun,Cao,Production Technician - WC50,2008-07-14,1979-02-03,adventure-works\jun0,jun0@adventure-works.com,299-555-0113,S,M,1,11.00,90,65,1,Production,2008-07-14,NULL,Current
+51,222,553069203,Christian,Kleinerman,Maintenance Supervisor,2008-07-14,1975-08-18,adventure-works\christian0,christian0@adventure-works.com,846-555-0157,M,M,2,204.327,92,66,1,Facilities and Maintenance,2008-07-14,NULL,Current
+52,188,351069889,Susan,Metters,Production Technician - WC30,2008-07-14,1982-10-31,adventure-works\susan1,susan1@adventure-works.com,639-555-0164,S,F,1,9.50,31,35,1,Production,2008-07-14,NULL,Current
+53,23,370989364,Reuben,D'sa,Production Supervisor - WC40,2008-07-15,1987-03-27,adventure-works\reuben0,reuben0@adventure-works.com,191-555-0112,M,M,2,25.00,72,56,1,Production,2008-07-15,NULL,Current
+54,126,275962311,Kirk,Koenigsbauer,Production Technician - WC45,2008-07-15,1984-09-06,adventure-works\kirk0,kirk0@adventure-works.com,669-555-0150,S,M,1,10.00,74,57,1,Production,2008-07-15,NULL,Current
+55,20,36151748,David,Ortiz,Production Technician - WC60,2008-07-15,1984-07-29,adventure-works\david2,david2@adventure-works.com,712-555-0119,M,M,1,12.45,33,36,1,Production,2008-07-15,NULL,Current
+56,92,540688287,Tengiz,Kharatishvili,Control Specialist,2008-07-16,1989-11-26,adventure-works\tengiz0,tengiz0@adventure-works.com,910-555-0116,S,M,2,168.269,76,58,1,Document Control,2008-07-16,NULL,Current
+57,147,568596888,Hanying,Feng,Production Technician - WC20,2008-07-16,1974-05-16,adventure-works\hanying0,hanying0@adventure-works.com,319-555-0139,S,M,1,14.00,15,27,1,Production,2008-07-16,NULL,Current
+58,214,918737118,Kevin,Liu,Production Technician - WC40,2008-07-17,1985-07-25,adventure-works\kevin1,kevin1@adventure-works.com,714-555-0138,S,M,1,15.00,58,49,1,Production,2008-07-17,NULL,Current
+59,18,801758002,Annik,Stahl,Production Technician - WC60,2008-07-17,1976-07-26,adventure-works\annik0,annik0@adventure-works.com,499-555-0125,M,M,1,12.45,17,28,1,Production,2008-07-17,NULL,Current
+60,40,415823523,Suroor,Fatima,Production Technician - WC50,2008-07-17,1977-09-25,adventure-works\suroor0,suroor0@adventure-works.com,932-555-0161,S,M,1,11.00,93,66,1,Production,2008-07-17,NULL,Current
+61,142,363923697,Deborah,Poe,Accounts Receivable Specialist,2008-07-18,1975-10-05,adventure-works\deborah0,deborah0@adventure-works.com,602-555-0194,M,F,2,19.00,60,50,1,Finance,2008-07-18,NULL,Current
+62,76,674171828,Jim,Scardelis,Production Technician - WC50,2008-07-19,1986-04-08,adventure-works\jim0,jim0@adventure-works.com,679-555-0113,M,M,1,11.00,1,20,1,Production,2008-07-19,NULL,Current
+63,177,138280935,Carole,Poland,Production Technician - WC30,2008-07-19,1983-05-19,adventure-works\carole0,carole0@adventure-works.com,688-555-0192,M,F,1,9.50,42,41,1,Production,2008-07-19,NULL,Current
+64,188,476115505,George,Li,Production Technician - WC30,2008-07-21,1976-11-14,adventure-works\george0,george0@adventure-works.com,518-555-0199,M,M,1,9.50,26,33,1,Production,2008-07-21,NULL,Current
+65,89,502058701,Gary,Yukish,Production Technician - WC40,2008-07-22,1987-12-15,adventure-works\gary0,gary0@adventure-works.com,901-555-0125,S,M,1,15.00,69,54,1,Production,2008-07-22,NULL,Current
+66,23,7201901,Cristian,Petculescu,Production Supervisor - WC10,2008-07-22,1983-11-10,adventure-works\cristian0,cristian0@adventure-works.com,434-555-0133,M,M,2,25.00,67,53,1,Production,2008-07-22,NULL,Current
+67,147,97728960,Raymond,Sam,Production Technician - WC20,2008-07-23,1966-09-30,adventure-works\raymond0,raymond0@adventure-works.com,226-555-0197,M,M,1,14.00,10,25,1,Production,2008-07-23,NULL,Current
+68,44,525932996,Janaina,Bueno,Application Specialist,2008-07-23,1984-08-30,adventure-works\janaina0,janaina0@adventure-works.com,623-555-0155,M,F,2,274.038,71,55,1,Information Services,2008-07-23,NULL,Current
+69,16,843479922,Bob,Hohman,Production Technician - WC50,2008-07-24,1979-03-16,adventure-works\bob0,bob0@adventure-works.com,611-555-0116,S,M,1,11.00,12,26,1,Production,2008-07-24,NULL,Current
+70,214,370487086,Shammi,Mohamed,Production Technician - WC40,2008-07-24,1980-05-04,adventure-works\shammi0,shammi0@adventure-works.com,793-555-0179,M,M,1,15.00,53,46,1,Production,2008-07-24,NULL,Current
+71,40,54759846,Linda,Moschell,Production Technician - WC50,2008-07-25,1987-02-14,adventure-works\linda0,linda0@adventure-works.com,612-555-0171,M,F,1,11.00,96,68,1,Production,2008-07-25,NULL,Current
+72,32,619308550,Mindy,Martin,Benefits Specialist,2008-07-25,1984-06-20,adventure-works\mindy0,mindy0@adventure-works.com,522-555-0147,M,F,2,165.865,51,45,1,Human Resources,2008-07-25,NULL,Current
+73,143,121491555,Wendy,Kahn,Finance Manager,2008-07-25,1984-05-11,adventure-works\wendy0,wendy0@adventure-works.com,248-555-0134,S,F,2,432.692,55,47,1,Finance,2008-07-25,NULL,Current
+74,87,420776180,Kim,Ralls,Stocker,2008-07-26,1983-11-29,adventure-works\kim0,kim0@adventure-works.com,309-555-0129,S,F,1,9.00,98,69,1,Shipping and Receiving,2008-07-26,NULL,Current
+75,138,604664374,Sandra,Reátegui Alayo,Production Technician - WC30,2008-07-26,1975-06-05,adventure-works\sandra0,sandra0@adventure-works.com,896-555-0168,M,F,1,9.50,37,38,1,Production,2008-07-26,NULL,Current
+76,23,778552911,Kok-Ho,Loh,Production Supervisor - WC50,2008-07-27,1979-11-27,adventure-works\kok-ho0,kok-ho0@adventure-works.com,999-555-0155,S,M,2,25.00,78,59,1,Production,2008-07-27,NULL,Current
+77,163,435234965,Douglas,Hite,Production Technician - WC45,2008-07-27,1985-06-24,adventure-works\douglas0,douglas0@adventure-works.com,808-555-0172,M,M,1,10.00,80,60,1,Production,2008-07-27,NULL,Current
+78,9,339712426,James,Kramer,Production Technician - WC60,2008-07-27,1984-02-23,adventure-works\james0,james0@adventure-works.com,119-555-0117,M,M,1,12.45,39,39,1,Production,2008-07-27,NULL,Current
+79,43,403414852,Sean,Alexander,Quality Assurance Technician,2008-07-28,1975-10-05,adventure-works\sean0,sean0@adventure-works.com,420-555-0173,S,M,2,10.5769,82,61,1,Quality Assurance,2008-07-28,NULL,Current
+80,186,368920189,Nitin,Mirchandani,Production Technician - WC20,2008-07-28,1986-07-01,adventure-works\nitin0,nitin0@adventure-works.com,143-555-0173,S,M,1,14.00,21,30,1,Production,2008-07-28,NULL,Current
+81,162,811994146,Diane,Margheim,Research and Development Engineer,2008-07-29,1986-01-03,adventure-works\diane1,diane1@adventure-works.com,815-555-0138,S,F,2,408.654,62,51,1,Research and Development,2008-07-29,NULL,Current
+82,18,330211482,Rebecca,Laszlo,Production Technician - WC60,2008-07-29,1988-02-04,adventure-works\rebecca0,rebecca0@adventure-works.com,314-555-0113,M,F,1,12.45,23,31,1,Production,2008-07-29,NULL,Current
+83,214,632092621,Rajesh,Patel,Production Technician - WC40,2008-07-31,1977-05-04,adventure-works\rajesh0,rajesh0@adventure-works.com,373-555-0137,M,M,1,15.00,48,44,1,Production,2008-07-31,NULL,Current
+84,32,264306399,Vidur,Luthra,Recruiter,2008-08-01,1984-03-01,adventure-works\vidur0,vidur0@adventure-works.com,153-555-0186,S,M,2,182.692,50,45,1,Human Resources,2008-08-01,NULL,Current
+85,40,981597097,John,Evans,Production Technician - WC50,2008-08-01,1977-12-29,adventure-works\john1,john1@adventure-works.com,172-555-0130,S,M,1,11.00,91,65,1,Production,2008-08-01,NULL,Current
+86,9,693325305,Nancy,Anderson,Production Technician - WC60,2008-08-02,1988-06-19,adventure-works\nancy0,nancy0@adventure-works.com,970-555-0118,M,F,1,12.45,34,37,1,Production,2008-08-02,NULL,Current
+87,23,521265716,Pilar,Ackerman,Shipping and Receiving Supervisor,2008-08-02,1972-04-09,adventure-works\pilar0,pilar0@adventure-works.com,577-555-0185,S,M,2,192.308,93,66,1,Shipping and Receiving,2008-08-02,NULL,Current
+88,188,746373306,David,Yalovsky,Production Technician - WC30,2008-08-02,1981-03-03,adventure-works\david3,david3@adventure-works.com,373-555-0142,S,M,1,9.50,32,36,1,Production,2008-08-02,NULL,Current
+89,23,750905084,David,Hamilton,Production Supervisor - WC40,2008-08-03,1983-01-30,adventure-works\david4,david4@adventure-works.com,986-555-0177,S,M,2,25.00,73,56,1,Production,2008-08-03,NULL,Current
+90,126,514829225,Laura,Steele,Production Technician - WC45,2008-08-03,1980-07-25,adventure-works\laura0,laura0@adventure-works.com,777-555-0141,S,F,1,10.00,75,57,1,Production,2008-08-03,NULL,Current
+91,18,750246141,Margie,Shoop,Production Technician - WC60,2008-08-04,1985-12-18,adventure-works\margie0,margie0@adventure-works.com,818-555-0128,M,F,1,12.45,18,29,1,Production,2008-08-04,NULL,Current
+92,204,345106466,Zainal,Arifin,Document Control Manager,2008-08-04,1975-08-30,adventure-works\zainal0,zainal0@adventure-works.com,204-555-0115,M,M,2,177.885,77,58,1,Document Control,2008-08-04,NULL,Current
+93,214,19312190,Lorraine,Nay,Production Technician - WC40,2008-08-04,1988-06-26,adventure-works\lorraine0,lorraine0@adventure-works.com,845-555-0184,M,F,1,15.00,49,44,1,Production,2008-08-04,NULL,Current
+94,147,212801092,Fadi,Fakhouri,Production Technician - WC20,2008-08-04,1988-09-15,adventure-works\fadi0,fadi0@adventure-works.com,935-555-0116,S,M,1,14.00,16,28,1,Production,2008-08-04,NULL,Current
+95,53,769680433,Ryan,Cornelsen,Production Technician - WC40,2008-08-05,1972-01-12,adventure-works\ryan0,ryan0@adventure-works.com,208-555-0114,M,M,1,15.00,59,49,1,Production,2008-08-05,NULL,Current
+96,142,60517918,Candy,Spoon,Accounts Receivable Specialist,2008-08-06,1975-09-23,adventure-works\candy0,candy0@adventure-works.com,920-555-0177,S,F,2,19.00,61,50,1,Finance,2008-08-06,NULL,Current
+97,76,431859843,Nuan,Yu,Production Technician - WC50,2008-08-06,1978-10-27,adventure-works\nuan0,nuan0@adventure-works.com,913-555-0184,S,M,1,11.00,2,21,1,Production,2008-08-06,NULL,Current
+98,46,621209647,William,Vong,Scheduling Assistant,2008-08-07,1981-06-06,adventure-works\william0,william0@adventure-works.com,148-555-0145,M,M,2,16.00,45,42,1,Production Control,2008-08-07,2011-03-31,NULL
+99,46,621209647,William,Vong,Scheduling Assistant,2008-08-07,1981-06-06,adventure-works\william0,william0@adventure-works.com,148-555-0145,M,M,2,16.00,45,42,1,Production Control,2011-04-01,NULL,Current
+100,177,420023788,Bjorn,Rettig,Production Technician - WC30,2008-08-07,1989-06-06,adventure-works\bjorn0,bjorn0@adventure-works.com,199-555-0117,S,M,1,9.50,43,41,1,Production,2008-08-07,NULL,Current
+101,201,199546871,Scott,Gode,Production Technician - WC45,2008-08-08,1986-09-10,adventure-works\scott0,scott0@adventure-works.com,391-555-0138,M,M,1,10.00,86,63,1,Production,2008-08-08,NULL,Current
+102,89,830150469,Michael,Rothkugel,Production Technician - WC40,2008-08-10,1990-08-04,adventure-works\michael1,michael1@adventure-works.com,454-555-0119,S,M,1,15.00,70,55,1,Production,2008-08-10,NULL,Current
+103,147,322160340,Lane,Sacksteder,Production Technician - WC20,2008-08-11,1974-04-23,adventure-works\lane0,lane0@adventure-works.com,200-555-0117,M,M,1,14.00,11,25,1,Production,2008-08-11,NULL,Current
+104,16,827686041,Pete,Male,Production Technician - WC50,2008-08-11,1976-09-03,adventure-works\pete0,pete0@adventure-works.com,768-555-0123,S,M,1,11.00,13,26,1,Production,2008-08-11,NULL,Current
+105,44,671089628,Dan,Bacon,Application Specialist,2008-08-11,1981-01-24,adventure-works\dan0,dan0@adventure-works.com,166-555-0159,M,M,2,274.038,72,56,1,Information Services,2008-08-11,NULL,Current
+106,143,231203233,David,Barber,Assistant to the Chief Financial Officer,2008-08-12,1964-01-20,adventure-works\david5,david5@adventure-works.com,477-555-0132,S,M,2,134.615,56,48,1,Finance,2008-08-12,NULL,Current
+107,76,204035155,Lolan,Song,Production Technician - WC50,2008-08-12,1972-08-24,adventure-works\lolan0,lolan0@adventure-works.com,582-555-0178,M,M,1,11.00,7,23,1,Production,2008-08-12,NULL,Current
+108,214,992874797,Paula,Nartker,Production Technician - WC40,2008-08-12,1986-09-10,adventure-works\paula1,paula1@adventure-works.com,476-555-0119,M,F,1,15.00,54,47,1,Production,2008-08-12,NULL,Current
+109,7,767955365,Mary,Gibson,Marketing Specialist,2008-08-12,1962-04-13,adventure-works\mary0,mary0@adventure-works.com,531-555-0183,M,F,2,144.231,46,43,1,Marketing,2008-08-12,NULL,Current
+110,40,342607223,Mindaugas,Krapauskas,Production Technician - WC50,2008-08-13,1977-12-05,adventure-works\mindaugas0,mindaugas0@adventure-works.com,637-555-0120,M,M,1,11.00,97,68,1,Production,2008-08-13,NULL,Current
+111,23,45615666,Eric,Gubbels,Production Supervisor - WC20,2008-08-14,1984-08-19,adventure-works\eric0,eric0@adventure-works.com,260-555-0119,M,M,2,25.00,40,40,1,Production,2008-08-14,NULL,Current
+112,NULL,295847284,Ken,Sánchez,Chief Executive Officer,2008-08-14,1968-08-29,adventure-works\ken0,ken0@adventure-works.com,697-555-0142,S,M,2,125.50,99,69,1,Executive,2008-08-14,NULL,Current
+113,138,733022683,Jason,Watters,Production Technician - WC30,2008-08-14,1988-07-07,adventure-works\jason0,jason0@adventure-works.com,571-555-0179,S,M,1,9.50,38,39,1,Production,2008-08-14,NULL,Current
+114,43,381772114,Mark,Harrington,Quality Assurance Technician,2008-08-15,1985-11-28,adventure-works\mark0,mark0@adventure-works.com,147-555-0179,S,M,2,10.5769,83,61,1,Quality Assurance,2008-08-15,NULL,Current
+115,163,187369436,Janeth,Esteves,Production Technician - WC45,2008-08-15,1972-02-22,adventure-works\janeth0,janeth0@adventure-works.com,540-555-0191,S,F,1,10.00,81,60,1,Production,2008-08-15,NULL,Current
+116,188,364818297,Marc,Ingle,Production Technician - WC30,2008-08-16,1986-05-24,adventure-works\marc0,marc0@adventure-works.com,234-555-0169,M,M,1,9.50,22,31,1,Production,2008-08-16,NULL,Current
+117,162,658797903,Gigi,Matthew,Research and Development Engineer,2008-08-16,1978-08-21,adventure-works\gigi0,gigi0@adventure-works.com,185-555-0186,M,F,2,408.654,63,51,1,Research and Development,2008-08-16,NULL,Current
+118,111,886023130,Paul,Singh,Production Technician - WC20,2008-08-17,1990-06-04,adventure-works\paul1,paul1@adventure-works.com,727-555-0112,M,M,1,14.00,6,23,1,Production,2008-08-17,NULL,Current
+119,214,749211824,Frank,Lee,Production Technician - WC40,2008-08-17,1987-04-06,adventure-works\frank0,frank0@adventure-works.com,158-555-0191,M,M,1,15.00,56,48,1,Production,2008-08-17,NULL,Current
+120,44,643805155,François,Ajenstat,Database Administrator,2008-08-17,1980-06-13,adventure-works\françois0,françois0@adventure-works.com,785-555-0110,S,M,2,384.615,67,53,1,Information Services,2008-08-17,NULL,Current
+121,16,92096924,Diane,Tibbott,Production Technician - WC50,2008-08-18,1989-03-09,adventure-works\diane2,diane2@adventure-works.com,361-555-0180,S,F,1,11.00,8,24,1,Production,2008-08-18,NULL,Current
+122,7,72636981,Jill,Williams,Marketing Specialist,2008-08-18,1979-01-16,adventure-works\jill0,jill0@adventure-works.com,510-555-0121,M,F,2,144.231,47,43,1,Marketing,2008-08-18,NULL,Current
+123,40,563680513,Angela,Barbariol,Production Technician - WC50,2008-08-20,1990-12-29,adventure-works\angela0,angela0@adventure-works.com,150-555-0194,S,F,1,11.00,92,66,1,Production,2008-08-20,NULL,Current
+124,87,584205124,Matthias,Berndt,Shipping and Receiving Clerk,2008-08-20,1973-06-11,adventure-works\matthias0,matthias0@adventure-works.com,139-555-0120,M,M,2,9.50,94,67,1,Shipping and Receiving,2008-08-20,NULL,Current
+125,9,458159238,Bryan,Baker,Production Technician - WC60,2008-08-21,1973-03-27,adventure-works\bryan0,bryan0@adventure-works.com,712-555-0113,S,M,1,12.45,35,37,1,Production,2008-08-21,NULL,Current
+126,23,712885347,Jeff,Hay,Production Supervisor - WC45,2008-08-21,1976-08-15,adventure-works\jeff0,jeff0@adventure-works.com,350-555-0167,M,M,2,25.00,74,57,1,Production,2008-08-21,NULL,Current
+127,188,87268837,Eugene,Zabokritski,Production Technician - WC30,2008-08-21,1987-02-12,adventure-works\eugene0,eugene0@adventure-works.com,241-555-0191,S,M,1,9.50,33,36,1,Production,2008-08-21,NULL,Current
+128,186,969985265,Barbara,Decker,Production Technician - WC20,2008-08-22,1984-07-29,adventure-works\barbara0,barbara0@adventure-works.com,119-555-0192,M,F,1,14.00,17,28,1,Production,2008-08-22,NULL,Current
+129,126,539490372,Chris,Preston,Production Technician - WC45,2008-08-22,1988-07-16,adventure-works\chris0,chris0@adventure-works.com,200-555-0112,M,M,1,10.00,76,58,1,Production,2008-08-22,NULL,Current
+130,92,242381745,Sean,Chai,Document Control Assistant,2008-08-22,1986-10-10,adventure-works\sean1,sean1@adventure-works.com,205-555-0132,S,M,2,10.25,78,59,1,Document Control,2008-08-22,NULL,Current
+131,44,929666391,Dan,Wilson,Database Administrator,2008-08-22,1975-08-06,adventure-works\dan1,dan1@adventure-works.com,653-555-0144,M,M,2,384.615,66,53,1,Information Services,2008-08-22,NULL,Current
+132,18,948320468,Mark,McArthur,Production Technician - WC60,2008-08-23,1979-04-25,adventure-works\mark1,mark1@adventure-works.com,417-555-0154,S,M,1,12.45,19,29,1,Production,2008-08-23,NULL,Current
+133,142,931190412,Bryan,Walton,Accounts Receivable Specialist,2008-08-24,1984-04-20,adventure-works\bryan1,bryan1@adventure-works.com,935-555-0199,S,M,2,19.00,62,51,1,Finance,2008-08-24,NULL,Current
+134,76,153288994,Houman,Pournasseh,Production Technician - WC50,2008-08-25,1971-03-30,adventure-works\houman0,houman0@adventure-works.com,180-555-0136,M,M,1,11.00,3,21,1,Production,2008-08-25,NULL,Current
+135,46,981495526,Sairaj,Uddin,Scheduling Assistant,2008-08-26,1987-07-22,adventure-works\sairaj0,sairaj0@adventure-works.com,500-555-0159,M,M,2,16.00,46,43,1,Production Control,2008-08-26,NULL,Current
+136,177,363996959,Michiko,Osada,Production Technician - WC30,2008-08-26,1982-01-25,adventure-works\michiko0,michiko0@adventure-works.com,984-555-0148,S,M,1,9.50,44,42,1,Production,2008-08-26,NULL,Current
+137,188,585408256,Benjamin,Martin,Production Technician - WC30,2008-08-27,1985-08-05,adventure-works\benjamin0,benjamin0@adventure-works.com,533-555-0111,S,M,1,9.50,28,34,1,Production,2008-08-27,NULL,Current
+138,23,386315192,Cynthia,Randall,Production Supervisor - WC30,2008-08-27,1981-03-18,adventure-works\cynthia0,cynthia0@adventure-works.com,352-555-0138,S,F,2,25.00,69,54,1,Production,2008-08-27,NULL,Current
+139,201,167554340,Kathie,Flood,Production Technician - WC45,2008-08-27,1990-06-01,adventure-works\kathie0,kathie0@adventure-works.com,446-555-0118,M,F,1,10.00,87,63,1,Production,2008-08-27,NULL,Current
+140,18,410742000,Britta,Simon,Production Technician - WC60,2008-08-29,1989-04-28,adventure-works\britta0,britta0@adventure-works.com,955-555-0169,M,F,1,12.45,14,27,1,Production,2008-08-29,NULL,Current
+141,214,746201340,Brian,Lloyd,Production Technician - WC40,2008-08-29,1976-09-10,adventure-works\brian0,brian0@adventure-works.com,110-555-0182,S,M,1,15.00,55,47,1,Production,2008-08-29,NULL,Current
+142,143,30845,David,Liu,Accounts Manager,2008-08-30,1983-02-05,adventure-works\david6,david6@adventure-works.com,646-555-0185,M,M,2,347.356,57,48,1,Finance,2008-08-30,NULL,Current
+143,112,184188301,Laura,Norman,Chief Financial Officer,2008-08-31,1975-08-06,adventure-works\laura1,laura1@adventure-works.com,615-555-0110,M,F,2,600.962,0,20,1,Executive,2008-08-31,2013-06-13,NULL
+144,112,184188301,Laura,Norman,Chief Financial Officer,2008-08-31,1975-08-06,adventure-works\laura1,laura1@adventure-works.com,615-555-0110,M,F,2,600.962,0,20,1,Executive,2013-06-13,NULL,Current
+145,40,398737566,Michael,Patten,Production Technician - WC50,2008-08-31,1973-12-01,adventure-works\michael2,michael2@adventure-works.com,441-555-0195,S,M,1,11.00,98,69,1,Production,2008-08-31,NULL,Current
+146,138,764853868,Andy,Ruth,Production Technician - WC30,2008-08-31,1983-05-20,adventure-works\andy0,andy0@adventure-works.com,118-555-0110,M,M,1,9.50,39,39,1,Production,2008-08-31,NULL,Current
+147,23,319472946,Yuhong,Li,Production Supervisor - WC20,2008-09-01,1976-11-04,adventure-works\yuhong0,yuhong0@adventure-works.com,965-555-0155,M,M,2,25.00,41,40,1,Production,2008-09-01,NULL,Current
+148,163,456839592,Robert,Rounthwaite,Production Technician - WC45,2008-09-02,1984-09-28,adventure-works\robert0,robert0@adventure-works.com,589-555-0147,S,M,1,10.00,82,61,1,Production,2008-09-02,NULL,Current
+149,43,131471224,Andreas,Berglund,Quality Assurance Technician,2008-09-02,1988-10-26,adventure-works\andreas0,andreas0@adventure-works.com,181-555-0124,M,M,2,10.5769,84,62,1,Quality Assurance,2008-09-02,NULL,Current
+150,188,259388196,Reed,Koch,Production Technician - WC30,2008-09-02,1988-08-08,adventure-works\reed0,reed0@adventure-works.com,678-555-0110,M,M,1,9.50,23,31,1,Production,2008-09-02,NULL,Current
+151,147,812797414,Linda,Randall,Production Technician - WC20,2008-09-03,1977-05-05,adventure-works\linda1,linda1@adventure-works.com,696-555-0157,S,F,1,14.00,12,26,1,Production,2008-09-03,NULL,Current
+152,112,519899904,James,Hamilton,Vice President of Production,2008-09-03,1988-02-04,adventure-works\james1,james1@adventure-works.com,870-555-0122,S,M,2,841.346,64,52,1,Production,2008-09-03,NULL,Current
+153,44,314747499,Ramesh,Meyyappan,Application Specialist,2008-09-03,1987-10-12,adventure-works\ramesh0,ramesh0@adventure-works.com,182-555-0134,S,M,2,274.038,73,56,1,Information Services,2008-09-03,NULL,Current
+154,44,858323870,Stephanie,Conroy,Network Manager,2008-09-04,1983-10-24,adventure-works\stephanie0,stephanie0@adventure-works.com,594-555-0110,S,F,2,396.635,68,54,1,Information Services,2008-09-04,NULL,Current
+155,111,25011600,Samantha,Smith,Production Technician - WC20,2008-09-04,1987-06-22,adventure-works\samantha0,samantha0@adventure-works.com,587-555-0114,M,F,1,14.00,7,23,1,Production,2008-09-04,NULL,Current
+156,214,436757988,Tawana,Nusbaum,Production Technician - WC40,2008-09-05,1989-06-10,adventure-works\tawana0,tawana0@adventure-works.com,368-555-0113,S,M,1,15.00,50,45,1,Production,2008-09-05,NULL,Current
+157,16,652535724,Denise,Smith,Production Technician - WC50,2008-09-05,1988-02-04,adventure-works\denise0,denise0@adventure-works.com,869-555-0119,M,F,1,11.00,9,24,1,Production,2008-09-05,NULL,Current
+158,32,416679555,Hao,Chen,Human Resources Administrative Assistant,2008-09-06,1976-11-15,adventure-works\hao0,hao0@adventure-works.com,806-555-0136,S,M,2,139.423,52,46,1,Human Resources,2008-09-06,NULL,Current
+159,126,377784364,Alex,Nayberg,Production Technician - WC45,2008-09-08,1989-11-11,adventure-works\alex0,alex0@adventure-works.com,819-555-0198,M,M,1,10.00,77,58,1,Production,2008-09-08,NULL,Current
+160,9,66073987,Eugene,Kogan,Production Technician - WC60,2008-09-08,1975-09-10,adventure-works\eugene1,eugene1@adventure-works.com,173-555-0179,S,M,1,12.45,36,38,1,Production,2008-09-08,NULL,Current
+161,18,999440576,Brandon,Heidepriem,Production Technician - WC60,2008-09-08,1976-08-10,adventure-works\brandon0,brandon0@adventure-works.com,429-555-0137,M,M,1,12.45,22,31,1,Production,2008-09-08,NULL,Current
+162,3,134969118,Dylan,Miller,Research and Development Manager,2008-09-08,1986-09-24,adventure-works\dylan0,dylan0@adventure-works.com,181-555-0156,M,M,2,504.808,61,50,1,Research and Development,2008-09-08,NULL,Current
+163,23,551834634,Shane,Kim,Production Supervisor - WC45,2008-09-08,1989-12-22,adventure-works\shane0,shane0@adventure-works.com,810-555-0178,S,M,2,25.00,75,57,1,Production,2008-09-08,NULL,Current
+164,186,305522471,John,Chen,Production Technician - WC20,2008-09-09,1985-11-03,adventure-works\john2,john2@adventure-works.com,201-555-0163,M,M,1,14.00,18,29,1,Production,2008-09-09,NULL,Current
+165,92,260770918,Karen,Berge,Document Control Assistant,2008-09-09,1975-07-25,adventure-works\karen0,karen0@adventure-works.com,746-555-0164,M,F,2,10.25,79,59,1,Document Control,2008-09-09,NULL,Current
+166,18,788456780,Jose,Lugo,Production Technician - WC60,2008-09-10,1984-02-29,adventure-works\jose0,jose0@adventure-works.com,587-555-0115,M,M,1,12.45,20,30,1,Production,2008-09-10,NULL,Current
+167,76,370581729,Mandar,Samant,Production Technician - WC50,2008-09-10,1985-10-19,adventure-works\mandar0,mandar0@adventure-works.com,140-555-0132,S,M,1,11.00,0,20,1,Production,2008-09-10,NULL,Current
+168,278,603686790,Mikael,Sandberg,Buyer,2008-09-10,1984-03-17,adventure-works\mikael0,mikael0@adventure-works.com,309-555-0170,S,M,2,182.692,59,49,1,Purchasing,2008-09-10,NULL,Current
+169,76,152085091,Sameer,Tejani,Production Technician - WC50,2008-09-11,1978-01-24,adventure-works\sameer0,sameer0@adventure-works.com,990-555-0172,M,M,1,11.00,4,22,1,Production,2008-09-11,NULL,Current
+170,142,663843431,Dragan,Tomic,Accounts Payable Specialist,2008-09-11,1976-09-14,adventure-works\dragan0,dragan0@adventure-works.com,117-555-0185,M,M,2,19.00,63,51,1,Finance,2008-09-11,NULL,Current
+171,177,227319668,Carol,Philips,Production Technician - WC30,2008-09-12,1988-05-17,adventure-works\carol0,carol0@adventure-works.com,609-555-0153,M,F,1,9.50,45,42,1,Production,2008-09-12,NULL,Current
+172,89,578953538,Rob,Caron,Production Technician - WC40,2008-09-13,1973-03-04,adventure-works\rob1,rob1@adventure-works.com,238-555-0116,S,M,1,15.00,71,55,1,Production,2008-09-13,NULL,Current
+173,40,222400012,Don,Hall,Production Technician - WC50,2008-09-13,1971-01-11,adventure-works\don0,don0@adventure-works.com,100-555-0174,M,M,1,11.00,88,64,1,Production,2008-09-13,NULL,Current
+174,46,470689086,Alan,Brewer,Scheduling Assistant,2008-09-13,1983-10-28,adventure-works\alan0,alan0@adventure-works.com,438-555-0172,M,M,2,16.00,47,43,1,Production Control,2008-09-13,NULL,Current
+175,188,860123571,David,Lawrence,Production Technician - WC30,2008-09-14,1985-04-23,adventure-works\david7,david7@adventure-works.com,118-555-0177,M,M,1,9.50,29,34,1,Production,2008-09-14,NULL,Current
+176,89,273260055,Baris,Cetinok,Production Technician - WC40,2008-09-15,1990-05-07,adventure-works\baris0,baris0@adventure-works.com,164-555-0114,S,M,1,15.00,72,56,1,Production,2008-09-15,NULL,Current
+177,23,578935259,Michael,Ray,Production Supervisor - WC30,2008-09-15,1988-08-29,adventure-works\michael3,michael3@adventure-works.com,156-555-0199,S,M,2,25.00,70,55,1,Production,2008-09-15,NULL,Current
+178,20,752513276,Steve,Masters,Production Technician - WC60,2008-09-15,1990-11-04,adventure-works\steve0,steve0@adventure-works.com,712-555-0170,S,M,1,12.45,31,35,1,Production,2008-09-15,NULL,Current
+179,18,754372876,Suchitra,Mohan,Production Technician - WC60,2008-09-16,1987-01-08,adventure-works\suchitra0,suchitra0@adventure-works.com,753-555-0129,M,F,1,12.45,15,27,1,Production,2008-09-16,NULL,Current
+180,44,58317344,Karen,Berg,Application Specialist,2008-09-16,1977-12-17,adventure-works\karen1,karen1@adventure-works.com,654-555-0177,S,F,2,274.038,74,57,1,Information Services,2008-09-16,NULL,Current
+181,147,404159499,Terrence,Earls,Production Technician - WC20,2008-09-16,1984-07-08,adventure-works\terrence0,terrence0@adventure-works.com,110-555-0115,S,M,1,14.00,13,26,1,Production,2008-09-16,NULL,Current
+182,142,363910111,Barbara,Moreland,Accountant,2008-09-18,1975-08-04,adventure-works\barbara1,barbara1@adventure-works.com,822-555-0145,M,F,2,264.423,58,49,1,Finance,2008-09-18,NULL,Current
+183,40,599942664,Chad,Niswonger,Production Technician - WC50,2008-09-18,1990-03-04,adventure-works\chad0,chad0@adventure-works.com,559-555-0175,M,M,1,11.00,99,69,1,Production,2008-09-18,NULL,Current
+184,138,993310268,Rostislav,Shabalin,Production Technician - WC30,2008-09-19,1977-04-13,adventure-works\rostislav0,rostislav0@adventure-works.com,751-555-0134,M,M,1,9.50,40,40,1,Production,2008-09-19,NULL,Current
+185,201,20244403,Belinda,Newman,Production Technician - WC45,2008-09-20,1974-10-15,adventure-works\belinda0,belinda0@adventure-works.com,319-555-0126,S,F,1,10.00,83,61,1,Production,2008-09-20,NULL,Current
+186,23,862951447,Katie,McAskill-White,Production Supervisor - WC20,2008-09-20,1984-06-18,adventure-works\katie0,katie0@adventure-works.com,809-555-0133,S,F,2,25.00,42,41,1,Production,2008-09-20,NULL,Current
+187,188,551346974,Russell,King,Production Technician - WC30,2008-09-21,1981-09-11,adventure-works\russell1,russell1@adventure-works.com,517-555-0122,M,M,1,9.50,24,32,1,Production,2008-09-21,NULL,Current
+188,23,60114406,Jack,Richins,Production Supervisor - WC30,2008-09-21,1983-01-20,adventure-works\jack0,jack0@adventure-works.com,552-555-0111,S,M,2,25.00,68,54,1,Production,2008-09-21,NULL,Current
+189,23,33237992,Andrew,Hill,Production Supervisor - WC10,2008-09-22,1988-04-06,adventure-works\andrew0,andrew0@adventure-works.com,908-555-0159,S,M,2,25.00,65,52,1,Production,2008-09-22,NULL,Current
+190,89,1300049,Nicole,Holliday,Production Technician - WC40,2008-09-22,1985-11-07,adventure-works\nicole0,nicole0@adventure-works.com,508-555-0129,M,F,1,15.00,67,53,1,Production,2008-09-22,NULL,Current
+191,16,10708100,Frank,Miller,Production Technician - WC50,2008-09-23,1971-02-21,adventure-works\frank1,frank1@adventure-works.com,167-555-0139,S,M,1,11.00,10,25,1,Production,2008-09-23,NULL,Current
+192,154,672243793,Peter,Connelly,Network Administrator,2008-09-23,1979-12-27,adventure-works\peter1,peter1@adventure-works.com,310-555-0133,S,M,2,324.519,69,54,1,Information Services,2008-09-23,NULL,Current
+193,111,63761469,Anibal,Sousa,Production Technician - WC20,2008-09-23,1974-04-05,adventure-works\anibal0,anibal0@adventure-works.com,106-555-0120,S,F,1,14.00,8,24,1,Production,2008-09-23,NULL,Current
+194,214,693168613,Ken,Myer,Production Technician - WC40,2008-09-24,1980-12-26,adventure-works\ken1,ken1@adventure-works.com,949-555-0174,M,M,1,15.00,51,45,1,Production,2008-09-24,NULL,Current
+195,32,476980013,Grant,Culbertson,Human Resources Administrative Assistant,2008-09-25,1975-11-15,adventure-works\grant0,grant0@adventure-works.com,955-555-0131,S,M,2,139.423,53,46,1,Human Resources,2008-09-25,NULL,Current
+196,40,334834274,Michael,Entin,Production Technician - WC50,2008-09-25,1989-01-13,adventure-works\michael4,michael4@adventure-works.com,817-555-0186,S,M,1,11.00,94,67,1,Production,2008-09-25,NULL,Current
+197,163,399658727,Lionel,Penuchot,Production Technician - WC45,2008-09-26,1987-10-13,adventure-works\lionel0,lionel0@adventure-works.com,450-555-0152,S,M,1,10.00,78,59,1,Production,2008-09-26,NULL,Current
+198,9,500412746,Thomas,Michaels,Production Technician - WC60,2008-09-26,1985-08-10,adventure-works\thomas0,thomas0@adventure-works.com,278-555-0118,M,M,1,12.45,37,38,1,Production,2008-09-26,NULL,Current
+199,87,652779496,Jimmy,Bischoff,Stocker,2008-09-26,1990-06-01,adventure-works\jimmy0,jimmy0@adventure-works.com,927-555-0168,M,M,1,9.00,96,68,1,Shipping and Receiving,2008-09-26,NULL,Current
+200,138,878395493,Michael,Vanderhyde,Production Technician - WC30,2008-09-26,1982-04-18,adventure-works\michael5,michael5@adventure-works.com,296-555-0121,M,M,1,9.50,35,37,1,Production,2008-09-26,NULL,Current
+201,23,332349500,Lori,Kane,Production Supervisor - WC45,2008-09-26,1980-02-16,adventure-works\lori0,lori0@adventure-works.com,289-555-0196,S,F,2,25.00,76,58,1,Production,2008-09-26,NULL,Current
+202,278,792847334,Arvind,Rao,Buyer,2008-09-28,1974-03-21,adventure-works\arvind0,arvind0@adventure-works.com,848-555-0163,M,M,2,182.692,60,50,1,Purchasing,2008-09-28,NULL,Current
+203,186,621932914,Stefen,Hesse,Production Technician - WC20,2008-09-28,1975-07-21,adventure-works\stefen0,stefen0@adventure-works.com,165-555-0113,S,M,1,14.00,19,29,1,Production,2008-09-28,NULL,Current
+204,23,398223854,Hazem,Abolrous,Quality Assurance Manager,2008-09-28,1977-05-26,adventure-works\hazem0,hazem0@adventure-works.com,869-555-0125,S,M,2,288.462,80,60,1,Quality Assurance,2008-09-28,NULL,Current
+205,142,519756660,Janet,Sheperdigian,Accounts Payable Specialist,2008-09-29,1978-10-07,adventure-works\janet0,janet0@adventure-works.com,393-555-0186,M,F,2,19.00,64,52,1,Finance,2008-09-29,NULL,Current
+206,76,912141525,Elizabeth,Keyser,Production Technician - WC50,2008-09-30,1989-08-25,adventure-works\elizabeth0,elizabeth0@adventure-works.com,318-555-0137,M,F,1,11.00,5,22,1,Production,2008-09-30,NULL,Current
+207,7,243322160,Terry,Eminhizer,Marketing Specialist,2008-09-30,1985-09-04,adventure-works\terry0,terry0@adventure-works.com,138-555-0118,M,M,2,144.231,44,42,1,Marketing,2008-09-30,NULL,Current
+208,188,568626529,John,Frum,Production Technician - WC30,2008-10-01,1981-10-22,adventure-works\john3,john3@adventure-works.com,663-555-0172,S,M,1,9.50,27,33,1,Production,2008-10-01,NULL,Current
+209,177,301435199,Merav,Netz,Production Technician - WC30,2008-10-01,1982-12-11,adventure-works\merav0,merav0@adventure-works.com,224-555-0187,M,F,1,9.50,46,43,1,Production,2008-10-01,NULL,Current
+210,46,368691270,Brian,LaMee,Scheduling Assistant,2008-10-01,1984-03-11,adventure-works\brian1,brian1@adventure-works.com,313-555-0196,M,M,2,16.00,48,44,1,Production Control,2008-10-01,NULL,Current
+211,40,211789056,Kitti,Lertpiriyasuwat,Production Technician - WC50,2008-10-02,1987-01-04,adventure-works\kitti0,kitti0@adventure-works.com,785-555-0132,S,F,1,11.00,89,64,1,Production,2008-10-02,NULL,Current
+212,20,63179277,Jay,Adams,Production Technician - WC60,2008-10-03,1975-09-11,adventure-works\jay0,jay0@adventure-works.com,407-555-0165,S,M,1,12.45,32,36,1,Production,2008-10-03,NULL,Current
+213,188,587567941,Jan,Miksovsky,Production Technician - WC30,2008-10-03,1974-06-15,adventure-works\jan0,jan0@adventure-works.com,139-555-0131,S,M,1,9.50,30,35,1,Production,2008-10-03,NULL,Current
+214,23,634335025,Brenda,Diaz,Production Supervisor - WC40,2008-10-03,1982-09-28,adventure-works\brenda0,brenda0@adventure-works.com,142-555-0139,M,F,2,25.00,71,55,1,Production,2008-10-03,NULL,Current
+215,126,65848458,Andrew,Cencini,Production Technician - WC45,2008-10-04,1988-04-24,adventure-works\andrew1,andrew1@adventure-works.com,207-555-0192,S,M,1,10.00,73,56,1,Production,2008-10-04,NULL,Current
+216,92,260805477,Chris,Norred,Control Specialist,2008-10-04,1986-12-24,adventure-works\chris1,chris1@adventure-works.com,575-555-0126,M,M,2,168.269,75,57,1,Document Control,2008-10-04,NULL,Current
+217,18,442121106,Chris,Okelberry,Production Technician - WC60,2008-10-05,1986-03-07,adventure-works\chris2,chris2@adventure-works.com,315-555-0144,S,M,1,12.45,16,28,1,Production,2008-10-05,NULL,Current
+218,147,300946911,Shelley,Dyck,Production Technician - WC20,2008-10-05,1986-07-08,adventure-works\shelley0,shelley0@adventure-works.com,991-555-0184,S,F,1,14.00,14,27,1,Production,2008-10-05,NULL,Current
+219,214,440379437,Gabe,Mares,Production Technician - WC40,2008-10-06,1987-12-09,adventure-works\gabe0,gabe0@adventure-works.com,310-555-0117,M,M,1,15.00,57,48,1,Production,2008-10-06,NULL,Current
+220,142,480951955,Mike,Seamans,Accountant,2008-10-06,1979-01-29,adventure-works\mike0,mike0@adventure-works.com,927-555-0150,S,M,2,264.423,59,49,1,Finance,2008-10-06,NULL,Current
+221,162,879342154,Michael,Raheem,Research and Development Manager,2008-12-01,1984-06-30,adventure-works\michael6,michael6@adventure-works.com,330-555-2568,M,M,2,424.808,16,64,1,Research and Development,2008-12-01,NULL,Current
+222,152,141165819,Gary,Altman,Facilities Manager,2009-07-02,1970-09-18,adventure-works\gary1,gary1@adventure-works.com,110-555-0112,M,M,2,240.385,86,63,1,Facilities and Maintenance,2009-07-02,NULL,Current
+223,20,537092325,Charles,Fitzgerald,Production Technician - WC60,2009-07-03,1971-04-02,adventure-works\charles0,charles0@adventure-works.com,931-555-0118,S,M,1,12.45,27,33,1,Production,2009-07-03,NULL,Current
+224,27,455563743,Ebru,Ersan,Production Technician - WC10,2009-07-06,1986-04-22,adventure-works\ebru0,ebru0@adventure-works.com,202-555-0187,S,M,1,13.45,93,66,1,Production,2009-07-06,NULL,Current
+225,111,701156975,Sylvester,Valdez,Production Technician - WC20,2009-07-11,1970-06-12,adventure-works\sylvester0,sylvester0@adventure-works.com,492-555-0174,M,M,1,14.00,4,22,1,Production,2009-07-11,NULL,Current
+226,53,1662732,Brian,Goldstein,Production Technician - WC40,2009-07-11,1970-07-23,adventure-works\brian2,brian2@adventure-works.com,730-555-0117,S,M,1,15.00,63,51,1,Production,2009-07-11,NULL,Current
+227,278,407505660,Linda,Meisner,Buyer,2009-07-17,1970-06-30,adventure-works\linda2,linda2@adventure-works.com,916-555-0165,M,F,2,182.692,56,48,1,Purchasing,2009-07-17,NULL,Current
+228,66,294148271,Betsy,Stadick,Production Technician - WC10,2009-07-18,1942-07-17,adventure-works\betsy0,betsy0@adventure-works.com,405-555-0171,S,F,1,13.45,99,69,1,Production,2009-07-18,NULL,Current
+229,222,552560652,Magnus,Hedlund,Facilities Administrative Assistant,2009-07-21,1971-03-27,adventure-works\magnus0,magnus0@adventure-works.com,583-555-0182,M,M,2,9.75,87,63,1,Facilities and Maintenance,2009-07-21,NULL,Current
+230,20,834186596,Karan,Khanna,Production Technician - WC60,2009-07-22,1969-10-05,adventure-works\karan0,karan0@adventure-works.com,447-555-0186,S,M,1,12.45,28,34,1,Production,2009-07-22,NULL,Current
+231,27,717889520,Mary,Baker,Production Technician - WC10,2009-07-25,1986-04-19,adventure-works\mary1,mary1@adventure-works.com,283-555-0185,M,F,1,13.45,94,67,1,Production,2009-07-25,NULL,Current
+232,27,801365500,Kevin,Homer,Production Technician - WC10,2009-07-25,1986-04-19,adventure-works\kevin2,kevin2@adventure-works.com,555-555-0113,S,M,1,13.45,90,65,1,Production,2009-07-25,NULL,Current
+233,53,413787783,Mihail,Frintu,Production Technician - WC40,2009-07-29,1970-10-07,adventure-works\mihail0,mihail0@adventure-works.com,733-555-0128,S,M,1,15.00,64,52,1,Production,2009-07-29,NULL,Current
+234,189,109272464,Bonnie,Kearney,Production Technician - WC10,2009-08-01,1986-04-10,adventure-works\bonnie0,bonnie0@adventure-works.com,264-555-0150,M,F,1,13.45,89,64,1,Production,2009-08-01,NULL,Current
+235,278,482810518,Fukiko,Ogisu,Buyer,2009-08-04,1970-06-24,adventure-works\fukiko0,fukiko0@adventure-works.com,520-555-0177,M,M,2,182.692,57,48,1,Purchasing,2009-08-04,NULL,Current
+236,111,113393530,Hung-Fu,Ting,Production Technician - WC20,2009-08-06,1971-05-23,adventure-works\hung-fu0,hung-fu0@adventure-works.com,497-555-0181,S,M,1,14.00,0,20,1,Production,2009-08-06,NULL,Current
+237,278,466142721,Gordon,Hee,Buyer,2009-08-11,1942-06-29,adventure-works\gordon0,gordon0@adventure-works.com,230-555-0144,M,M,2,182.692,52,46,1,Purchasing,2009-08-11,NULL,Current
+238,66,390124815,Kimberly,Zimmerman,Production Technician - WC10,2009-08-12,1986-04-13,adventure-works\kimberly0,kimberly0@adventure-works.com,123-555-0167,S,F,1,13.45,95,67,1,Production,2009-08-12,NULL,Current
+239,18,6298838,Kim,Abercrombie,Production Technician - WC60,2009-08-16,1942-07-14,adventure-works\kim1,kim1@adventure-works.com,208-555-0114,M,F,1,12.45,24,32,1,Production,2009-08-16,NULL,Current
+240,53,943170460,Sandeep,Kaliyath,Production Technician - WC40,2009-08-17,1970-07-03,adventure-works\sandeep0,sandeep0@adventure-works.com,166-555-0156,S,M,1,15.00,65,52,1,Production,2009-08-17,NULL,Current
+241,111,339233463,Prasanna,Samarawickrama,Production Technician - WC20,2009-08-22,1952-11-28,adventure-works\prasanna0,prasanna0@adventure-works.com,129-555-0199,M,M,1,14.00,5,22,1,Production,2009-08-22,NULL,Current
+242,278,367453993,Frank,Pellow,Buyer,2009-08-23,1951-12-11,adventure-works\frank2,frank2@adventure-works.com,163-555-0147,M,M,2,182.692,58,49,1,Purchasing,2009-08-23,NULL,Current
+243,111,872923042,Min,Su,Production Technician - WC20,2009-08-24,1974-04-10,adventure-works\min0,min0@adventure-works.com,590-555-0152,M,M,1,14.00,1,20,1,Production,2009-08-24,NULL,Current
+244,53,697712387,Eric,Brown,Production Technician - WC40,2009-08-24,1942-07-08,adventure-works\eric1,eric1@adventure-works.com,680-555-0118,M,M,1,15.00,60,50,1,Production,2009-08-24,NULL,Current
+245,278,381073001,Eric,Kurjan,Buyer,2009-08-27,1972-04-17,adventure-works\eric2,eric2@adventure-works.com,265-555-0195,S,M,2,182.692,54,47,1,Purchasing,2009-08-27,NULL,Current
+246,51,646304055,Pat,Coleman,Janitor,2009-08-27,1970-07-03,adventure-works\pat0,pat0@adventure-works.com,720-555-0158,S,M,1,9.25,89,64,1,Facilities and Maintenance,2009-08-27,NULL,Current
+247,20,414476027,Maciej,Dusza,Production Technician - WC60,2009-08-29,1954-08-30,adventure-works\maciej0,maciej0@adventure-works.com,237-555-0128,S,M,1,12.45,30,35,1,Production,2009-08-29,NULL,Current
+248,278,785853949,Erin,Hagens,Buyer,2009-08-31,1970-08-04,adventure-works\erin0,erin0@adventure-works.com,842-555-0158,S,F,2,182.692,53,46,1,Purchasing,2009-08-31,NULL,Current
+249,66,90888098,Patrick,Wedge,Production Technician - WC10,2009-09-01,1986-04-10,adventure-works\patrick0,patrick0@adventure-works.com,413-555-0124,S,M,1,13.45,96,68,1,Production,2009-09-01,NULL,Current
+250,53,947029962,Frank,Martinez,Production Technician - WC40,2009-09-05,1951-10-01,adventure-works\frank3,frank3@adventure-works.com,203-555-0196,M,M,1,15.00,66,53,1,Production,2009-09-05,NULL,Current
+251,18,461786517,Ed,Dudenhoefer,Production Technician - WC60,2009-09-05,1971-04-11,adventure-works\ed0,ed0@adventure-works.com,919-555-0140,S,M,1,12.45,25,32,1,Production,2009-09-05,NULL,Current
+252,27,393421437,Christopher,Hill,Production Technician - WC10,2009-09-08,1986-05-01,adventure-works\christopher0,christopher0@adventure-works.com,153-555-0166,M,M,1,13.45,91,65,1,Production,2009-09-08,NULL,Current
+253,53,988315686,Patrick,Cook,Production Technician - WC40,2009-09-12,1973-07-23,adventure-works\patrick1,patrick1@adventure-works.com,425-555-0117,M,M,1,15.00,61,50,1,Production,2009-09-12,NULL,Current
+254,111,56772045,Krishna,Sunkammurali,Production Technician - WC20,2009-09-13,1971-04-05,adventure-works\krishna0,krishna0@adventure-works.com,491-555-0183,S,M,1,14.00,2,21,1,Production,2009-09-13,NULL,Current
+255,51,879334904,Lori,Penor,Janitor,2009-09-16,1970-02-28,adventure-works\lori1,lori1@adventure-works.com,295-555-0161,M,F,1,9.25,90,65,1,Facilities and Maintenance,2009-09-16,NULL,Current
+256,66,82638150,Danielle,Tiedt,Production Technician - WC10,2009-09-20,1986-04-07,adventure-works\danielle0,danielle0@adventure-works.com,500-555-0172,S,F,1,13.45,97,68,1,Production,2009-09-20,NULL,Current
+257,43,343861179,Sootha,Charncherngkha,Quality Assurance Technician,2009-09-23,1942-07-05,adventure-works\sootha0,sootha0@adventure-works.com,325-555-0137,M,M,2,10.5769,85,62,1,Quality Assurance,2009-09-23,NULL,Current
+258,20,582347317,Michael,Zwilling,Production Technician - WC60,2009-09-23,1973-04-05,adventure-works\michael7,michael7@adventure-works.com,582-555-0148,S,M,1,12.45,26,33,1,Production,2009-09-23,NULL,Current
+259,20,8066363,Randy,Reeves,Production Technician - WC60,2009-09-23,1969-11-26,adventure-works\randy0,randy0@adventure-works.com,961-555-0122,M,M,1,12.45,29,34,1,Production,2009-09-23,NULL,Current
+260,27,561196580,John,Kane,Production Technician - WC10,2009-09-27,1986-04-28,adventure-works\john4,john4@adventure-works.com,254-555-0114,S,M,1,13.45,92,66,1,Production,2009-09-27,NULL,Current
+261,53,58791499,Jack,Creasey,Production Technician - WC40,2009-10-01,1973-03-29,adventure-works\jack1,jack1@adventure-works.com,521-555-0113,S,M,1,15.00,62,51,1,Production,2009-10-01,NULL,Current
+262,111,163347032,Olinda,Turner,Production Technician - WC20,2009-10-02,1969-11-02,adventure-works\olinda0,olinda0@adventure-works.com,306-555-0186,S,F,1,14.00,3,21,1,Production,2009-10-02,NULL,Current
+263,51,28414965,Stuart,Macrae,Janitor,2009-10-03,1971-07-17,adventure-works\stuart1,stuart1@adventure-works.com,539-555-0149,M,M,1,9.25,88,64,1,Facilities and Maintenance,2009-10-03,NULL,Current
+264,51,153479919,Jo,Berry,Janitor,2009-10-05,1953-11-22,adventure-works\jo1,jo1@adventure-works.com,228-555-0159,M,F,1,9.25,91,65,1,Facilities and Maintenance,2009-10-05,NULL,Current
+265,278,20269531,Ben,Miller,Buyer,2009-10-07,1973-01-01,adventure-works\ben0,ben0@adventure-works.com,151-555-0113,M,M,2,182.692,55,47,1,Purchasing,2009-10-07,NULL,Current
+266,66,826454897,Tom,Vande Velde,Production Technician - WC10,2009-10-08,1986-05-01,adventure-works\tom0,tom0@adventure-works.com,295-555-0161,M,M,1,13.45,98,69,1,Production,2009-10-08,NULL,Current
+267,3,974026903,Ovidiu,Cracium,Senior Tool Designer,2010-07-05,1977-08-17,adventure-works\ovidiu0,ovidiu0@adventure-works.com,719-555-0181,S,M,2,288.462,7,23,1,Tool Design,2010-07-05,NULL,Current
+268,278,437296311,Annette,Hill,Purchasing Assistant,2010-07-06,1977-08-29,adventure-works\annette0,annette0@adventure-works.com,125-555-0196,M,F,2,12.75,50,45,1,Purchasing,2010-07-06,NULL,Current
+269,267,486228782,Janice,Galvin,Tool Designer,2010-07-23,1988-12-26,adventure-works\janice0,janice0@adventure-works.com,473-555-0117,M,F,2,25.00,8,24,1,Tool Design,2010-07-23,NULL,Current
+270,278,280633567,Reinout,Hillmann,Purchasing Assistant,2010-07-25,1977-08-17,adventure-works\reinout0,reinout0@adventure-works.com,370-555-0163,M,M,2,12.75,51,45,1,Purchasing,2010-07-25,NULL,Current
+271,3,42487730,Michael,Sullivan,Senior Design Engineer,2010-07-30,1979-01-14,adventure-works\michael8,michael8@adventure-works.com,465-555-0156,S,M,2,360.577,3,21,1,Engineering,2010-07-30,NULL,Current
+272,277,502097814,Stephen,Jiang,North American Sales Manager,2010-08-04,1951-05-17,adventure-works\stephen0,stephen0@adventure-works.com,238-555-0197,M,M,2,48.101,14,27,1,Sales,2010-08-04,NULL,Current
+273,7,323403273,Wanida,Benshoof,Marketing Assistant,2010-08-07,1974-10-15,adventure-works\wanida0,wanida0@adventure-works.com,708-555-0141,M,F,2,134.615,41,40,1,Marketing,2010-08-07,NULL,Current
+274,3,56920285,Sharon,Salavaria,Design Engineer,2010-08-18,1960-11-30,adventure-works\sharon0,sharon0@adventure-works.com,970-555-0138,M,F,2,326.923,4,22,1,Engineering,2010-08-18,NULL,Current
+275,7,222969461,John,Wood,Marketing Specialist,2010-09-07,1977-10-04,adventure-works\john5,john5@adventure-works.com,486-555-0150,S,M,2,144.231,48,44,1,Marketing,2010-09-07,NULL,Current
+276,7,52541318,Mary,Dempsey,Marketing Assistant,2010-09-14,1977-08-29,adventure-works\mary2,mary2@adventure-works.com,124-555-0114,S,F,2,134.615,43,41,1,Marketing,2010-09-14,NULL,Current
+277,112,112432117,Brian,Welcker,Vice President of Sales,2010-09-15,1977-01-04,adventure-works\brian3,brian3@adventure-works.com,716-555-0127,S,M,2,721.154,10,25,1,Sales,2010-09-15,NULL,Current
+278,73,895209680,Sheela,Word,Purchasing Manager,2010-09-25,1977-09-10,adventure-works\sheela0,sheela0@adventure-works.com,210-555-0193,S,F,2,30.00,49,44,1,Purchasing,2010-09-25,2011-02-27,NULL
+279,73,895209680,Sheela,Word,Purchasing Manager,2010-09-25,1977-09-10,adventure-works\sheela0,sheela0@adventure-works.com,210-555-0193,S,F,2,30.00,49,44,1,Purchasing,2011-02-28,2012-02-12,NULL
+280,73,895209680,Sheela,Word,Purchasing Manager,2010-09-25,1977-09-10,adventure-works\sheela0,sheela0@adventure-works.com,210-555-0193,S,F,2,30.00,49,44,1,Purchasing,2012-02-13,NULL,Current
+281,272,841560125,Michael,Blythe,Sales Representative,2010-12-29,1968-07-25,adventure-works\michael9,michael9@adventure-works.com,257-555-0154,S,M,2,230.769,38,39,1,Sales,2010-12-29,NULL,Current
+282,272,191644724,Linda,Mitchell,Sales Representative,2010-12-29,1979-09-27,adventure-works\linda3,linda3@adventure-works.com,883-555-0116,M,F,2,230.769,27,33,1,Sales,2010-12-29,NULL,Current
+283,272,615389812,Jillian,Carson,Sales Representative,2010-12-29,1962-03-29,adventure-works\jillian0,jillian0@adventure-works.com,517-555-0117,S,F,2,230.769,24,32,1,Sales,2010-12-29,NULL,Current
+284,272,234474252,Garrett,Vargas,Sales Representative,2010-12-29,1974-09-04,adventure-works\garrett1,garrett1@adventure-works.com,922-555-0165,M,M,2,230.769,33,36,1,Sales,2010-12-29,NULL,Current
+285,272,716374314,Tsvi,Reiter,Sales Representative,2010-12-29,1973-08-18,adventure-works\tsvi0,tsvi0@adventure-works.com,664-555-0112,M,M,2,230.769,29,34,1,Sales,2010-12-29,NULL,Current
+286,272,61161660,Pamela,Ansman-Wolfe,Sales Representative,2010-12-29,1974-07-06,adventure-works\pamela0,pamela0@adventure-works.com,340-555-0193,S,F,2,230.769,22,31,1,Sales,2010-12-29,NULL,Current
+287,272,139397894,Shu,Ito,Sales Representative,2010-12-29,1943-10-08,adventure-works\shu0,shu0@adventure-works.com,330-555-0120,M,M,2,230.769,26,33,1,Sales,2010-12-29,NULL,Current
+288,272,399771412,José,Saraiva,Sales Representative,2010-12-29,1939-07-11,adventure-works\josé1,josé1@adventure-works.com,185-555-0169,M,M,2,230.769,31,35,1,Sales,2010-12-29,NULL,Current
+289,272,987554265,David,Campbell,Sales Representative,2010-12-29,1973-09-11,adventure-works\david8,david8@adventure-works.com,740-555-0182,S,M,2,230.769,23,31,1,Sales,2010-12-29,NULL,Current
+290,277,982310417,Amy,Alberts,European Sales Manager,2011-11-15,1957-04-20,adventure-works\amy0,amy0@adventure-works.com,775-555-0164,M,F,2,48.101,21,30,1,Sales,2011-11-15,NULL,Current
+291,290,668991357,Jae,Pak,Sales Representative,2011-12-29,1967-10-16,adventure-works\jae0,jae0@adventure-works.com,1 (11) 500 555-0145,M,F,2,230.769,37,38,1,Sales,2011-12-29,NULL,Current
+292,290,134219713,Ranjit,Varkey Chudukatil,Sales Representative,2011-12-29,1975-04-30,adventure-works\ranjit0,ranjit0@adventure-works.com,1 (11) 500 555-0117,S,M,2,230.769,34,37,1,Sales,2011-12-29,NULL,Current
+293,272,90836195,Tete,Mensa-Annan,Sales Representative,2012-04-30,1977-08-05,adventure-works\tete0,tete0@adventure-works.com,615-555-0153,M,M,2,230.769,39,39,1,Sales,2012-04-30,NULL,Current
+294,277,481044938,Syed,Abbas,Pacific Sales Manager,2012-10-12,1974-08-11,adventure-works\syed0,syed0@adventure-works.com,926-555-0182,M,M,2,48.101,20,30,1,Sales,2012-10-12,NULL,Current
+295,290,954276278,Rachel,Valdez,Sales Representative,2012-12-28,1975-02-06,adventure-works\rachel0,rachel0@adventure-works.com,1 (11) 500 555-0140,S,F,2,230.769,35,37,1,Sales,2012-12-28,NULL,Current
+296,294,758596752,Lynn,Tsoflias,Sales Representative,2012-12-28,1970-10-16,adventure-works\lynn0,lynn0@adventure-works.com,1 (11) 500 555-0190,S,F,2,230.769,36,38,1,Sales,2012-12-28,NULL,Current
